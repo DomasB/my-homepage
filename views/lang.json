@@ -66,6 +66,12 @@
     "hobbies": "Elektronika, fotografija, mokslas, psichologija, grojimas gitara, kelionės, piešimas.",
     "projects": [
       {
+        "image": "herbai.png",
+        "name": "Herbų žaidimas",
+        "link": "http://domas.ddns.net/herbai",
+        "desc": "express, webpack, babel, react.js, handlebars, underscore.js"
+      },
+      {
         "image": "epsichologe.png",
         "name": "e-psichologe.eu",
         "link": "http://e-psichologe.eu",
@@ -147,6 +153,12 @@
     "drive": "Driver's license (since 2006)",
     "hobbies": "Electrinics, photography, science, psychology, playing guitar, traveling, drawing.",
     "projects": [
+      {
+        "image": "herbai.png",
+        "name": "Herbai game",
+        "link": "http://domas.ddns.net/herbai",
+        "desc": "express, webpack, babel, react.js, underscore.js, bootstrap"
+      },
       {
         "image": "epsichologe.png",
         "name": "e-psichologe.eu",

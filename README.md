@@ -4,10 +4,9 @@ App uses:
 Node.js with express server.
 
 CV page uses:
-handlebars
+handlebars, bootstrap
 
 "Herbai" game uses:
-express, webpack, babel, react.js, handlebars, underscore.js
+express, webpack, babel, react.js, underscore.js, bootstrap
 
 node_modules/ is ignored right now
-
