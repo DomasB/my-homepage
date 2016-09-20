@@ -9,3 +9,5 @@ handlebars
 "Herbai" game uses:
 express, webpack, babel, react.js, handlebars, underscore.js
 
+node_modules/ is ignored right now
+
