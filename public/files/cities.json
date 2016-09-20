@@ -1,0 +1,1370 @@
+[
+    {
+      "name": "Žemaičių Naumiesčio",
+      "img": "ZemaiciuNaumiestis.gif"
+    },
+    {
+      "name": "Žemaičių Kalvarijos",
+      "img": "Zemaiciu_Kalvarija_COA.gif"
+    },
+    {
+      "name": "Želvos",
+      "img": "ZelvaCOA.jpeg"
+    },
+    {
+      "name": "Žeimių",
+      "img": "ŽeimiaiCOA.JPG"
+    },
+    {
+      "name": "Žeimelio",
+      "img": "Coat_of_arms_of_Žeimelis.png"
+    },
+    {
+      "name": "Žaslių",
+      "img": "Zasliai_COA.gif"
+    },
+    {
+      "name": "Žarėnų",
+      "img": "Zarenuherbas.PNG"
+    },
+    {
+      "name": "Žagarės",
+      "img": "Coat_of_arms_of_Žagarė.png"
+    },
+    {
+      "name": "Zarasų",
+      "img": "Coat_of_arms_of_Zarasai.gif"
+    },
+    {
+      "name": "Zapyškio",
+      "img": "Zapyskis_COA.jpg"
+    },
+    {
+      "name": "Vyžuonų",
+      "img": "Vyzuonosherbas.png"
+    },
+    {
+      "name": "Vištyčio",
+      "img": "Vistytis_COA.png"
+    },
+    {
+      "name": "Visagino",
+      "img": "Visaginas_coat_of_arms.png"
+    },
+    {
+      "name": "Virbalio",
+      "img": "Virbalis_COA.gif"
+    },
+    {
+      "name": "Vilniaus",
+      "img": "Coat_of_arms_of_Vilnius_Gold.png"
+    },
+    {
+      "name": "Vilkyškių",
+      "img": "Vilkyskiuherbas.png"
+    },
+    {
+      "name": "Vilkijos",
+      "img": "Vilkija_COA.jpg"
+    },
+    {
+      "name": "Vilkaviškio",
+      "img": "Coat_of_arms_of_Vilkaviškis.png"
+    },
+    {
+      "name": "Vievio",
+      "img": "Vievis_COA.gif"
+    },
+    {
+      "name": "Viešvilės",
+      "img": "Viesvilesherbas.PNG"
+    },
+    {
+      "name": "Viešvėnų",
+      "img": "ViesvenaiCOA.jpg"
+    },
+    {
+      "name": "Viešintų",
+      "img": "Viesintuherbas.png"
+    },
+    {
+      "name": "Viekšnių",
+      "img": "LIT_Wieksznie_COA.jpg"
+    },
+    {
+      "name": "Viduklės",
+      "img": "VidukleCOA.jpg"
+    },
+    {
+      "name": "Vėžaičių",
+      "img": "Vezaiciuherbas.png"
+    },
+    {
+      "name": "Ventos",
+      "img": "Venta_COA.gif"
+    },
+    {
+      "name": "Velžio",
+      "img": "Velzioherbas.png"
+    },
+    {
+      "name": "Veliuonos",
+      "img": "Veliuona_COA.gif"
+    },
+    {
+      "name": "Veiviržėnų",
+      "img": "VeivirzenaiCOA.gif"
+    },
+    {
+      "name": "Veiverių",
+      "img": "Veiverių_herbas.jpg"
+    },
+    {
+      "name": "Veisiejų",
+      "img": "LIT_Wiejsieje_COA.gif"
+    },
+    {
+      "name": "Vaškų",
+      "img": "Vasku_coa.jpg"
+    },
+    {
+      "name": "Varėnos",
+      "img": "Varena_COA.gif"
+    },
+    {
+      "name": "Varnių",
+      "img": "Varniai_COA.gif"
+    },
+    {
+      "name": "Vandžiogalos",
+      "img": "Vandžiogalos_herbas.jpg"
+    },
+    {
+      "name": "Valkininkų",
+      "img": "Valkininkai_COA.gif"
+    },
+    {
+      "name": "Vainuto",
+      "img": "Vainutoherbas.png"
+    },
+    {
+      "name": "Vaiguvos",
+      "img": "Vaiguvosherbas.PNG"
+    },
+    {
+      "name": "Vadoklių",
+      "img": "Vadokliuherbas.PNG"
+    },
+    {
+      "name": "Vabalninko",
+      "img": "Vabalninkas_COA.gif"
+    },
+    {
+      "name": "Užvenčio",
+      "img": "Uzventis_COA.gif"
+    },
+    {
+      "name": "Užusalių",
+      "img": "Uzusaliuherbas.PNG"
+    },
+    {
+      "name": "Užpalių",
+      "img": "Uzpaliu_herbas.jpg"
+    },
+    {
+      "name": "Užliedžių",
+      "img": "Uzliedziuherbas.PNG"
+    },
+    {
+      "name": "Utenos",
+      "img": "Utena_COA.gif"
+    },
+    {
+      "name": "Usėnų",
+      "img": "Usenuherbas.PNG"
+    },
+    {
+      "name": "Upytės",
+      "img": "UpyteCOA.gif"
+    },
+    {
+      "name": "Upynos",
+      "img": "Upynosherbas.PNG"
+    },
+    {
+      "name": "Upninkų",
+      "img": "Upninkai_COA.png"
+    },
+    {
+      "name": "Ukmergės",
+      "img": "Ukmerge_COA.gif"
+    },
+    {
+      "name": "Tytuvėnų",
+      "img": "TytuvenaiCOA.jpg"
+    },
+    {
+      "name": "Tverų",
+      "img": "Tveruherbas.PNG"
+    },
+    {
+      "name": "Turgelių",
+      "img": "Turgeliuherbas.PNG"
+    },
+    {
+      "name": "Tryškių",
+      "img": "Tryskiai_COA.gif"
+    },
+    {
+      "name": "Troškūnų",
+      "img": "TroskunaiCOA.jpg"
+    },
+    {
+      "name": "Traupio",
+      "img": "Traupioherbas.PNG"
+    },
+    {
+      "name": "Trakų",
+      "img": "Coat_of_arms_of_Trakai_(Lithuania).png"
+    },
+    {
+      "name": "Tirkšlių",
+      "img": "TirksliaiCOA.jpg"
+    },
+    {
+      "name": "Telšių",
+      "img": "Telsiai_coat_of_arms.png"
+    },
+    {
+      "name": "Tauragės",
+      "img": "Taurage_COA.gif"
+    },
+    {
+      "name": "Tauragnų",
+      "img": "TauragnaiCOA.gif"
+    },
+    {
+      "name": "Taujėnų",
+      "img": "TaujenaiCOA.jpg"
+    },
+    {
+      "name": "Šėtos",
+      "img": "Seta_COA.jpg"
+    },
+    {
+      "name": "Švėkšnos",
+      "img": "Sveksna_COA.gif"
+    },
+    {
+      "name": "Šventosios",
+      "img": "Sventosiosherbas.png"
+    },
+    {
+      "name": "Švenčionėlių",
+      "img": "Svencioneliai_COA.gif"
+    },
+    {
+      "name": "Švenčionių",
+      "img": "Herb_Święcian.png"
+    },
+    {
+      "name": "Šveicarijos (Jonava)",
+      "img": "Sveicarijosherbas.png"
+    },
+    {
+      "name": "Šunskų",
+      "img": "Sunskuherbas.png"
+    },
+    {
+      "name": "Širvintų",
+      "img": "Sirvintos_COA.gif"
+    },
+    {
+      "name": "Šiluvos",
+      "img": "Siluva_COA.gif"
+    },
+    {
+      "name": "Šilutės",
+      "img": "Coat_of_arms_of_Silute_(Lithuania).png"
+    },
+    {
+      "name": "Šilavoto",
+      "img": "SilavotasCOA.jpg"
+    },
+    {
+      "name": "Šilalės",
+      "img": "Coat_of_arms_of_Šilalė.png"
+    },
+    {
+      "name": "Šilagalio",
+      "img": "Silagalioherbas.png"
+    },
+    {
+      "name": "Šiaulėnų",
+      "img": "Siaulenai_coat_of_arms.gif"
+    },
+    {
+      "name": "Šiaulių",
+      "img": "Siauliai_city_COA.gif"
+    },
+    {
+      "name": "Šeštokų",
+      "img": "Sestokai.gif"
+    },
+    {
+      "name": "Šeduvos",
+      "img": "Seduva_COA.gif"
+    },
+    {
+      "name": "Šaukėnų",
+      "img": "Coat_of_arms_of_Šaukėnai.png"
+    },
+    {
+      "name": "Šaukoto",
+      "img": "SaukotasCOA.gif"
+    },
+    {
+      "name": "Šalčininkų",
+      "img": "Herb_Soleczników.png"
+    },
+    {
+      "name": "Šakynos",
+      "img": "Coat_of_Arms_of_Sakyna.png"
+    },
+    {
+      "name": "Šakių",
+      "img": "Sakiai_COA.gif"
+    },
+    {
+      "name": "Šačių",
+      "img": "Saciuherbas.png"
+    },
+    {
+      "name": "Svėdasų",
+      "img": "Svedasai_COA.gif"
+    },
+    {
+      "name": "Surviliškio",
+      "img": "Surviliskioherbas.PNG"
+    },
+    {
+      "name": "Sudeikių",
+      "img": "Sudeikiai_COA.gif"
+    },
+    {
+      "name": "Sudargo",
+      "img": "SudargasCOA.jpg"
+    },
+    {
+      "name": "Stoniškių",
+      "img": "Stoniskiuherbas.png"
+    },
+    {
+      "name": "Stakliškių",
+      "img": "Stakliskes_COA.gif"
+    },
+    {
+      "name": "Smilgių",
+      "img": "Smilgiuherbas.png"
+    },
+    {
+      "name": "Slengių",
+      "img": "Slengiuherbas.png"
+    },
+    {
+      "name": "Skuodo",
+      "img": "Skuodas_COA.gif"
+    },
+    {
+      "name": "Skirsnemunės",
+      "img": "Skirsnemune_COA.gif"
+    },
+    {
+      "name": "Skiemonių",
+      "img": "Skiemoniuherbas.png"
+    },
+    {
+      "name": "Skaudvilės",
+      "img": "LIT_Skaudwile_COA.jpg"
+    },
+    {
+      "name": "Skaistgirio",
+      "img": "Skaistgirioherbas.png"
+    },
+    {
+      "name": "Sintautų",
+      "img": "Sintautai_COA.gif"
+    },
+    {
+      "name": "Simno",
+      "img": "Simnas_COA.gif"
+    },
+    {
+      "name": "Siesikų",
+      "img": "Siesikai.gif"
+    },
+    {
+      "name": "Sidabravo",
+      "img": "Sidabravas.gif"
+    },
+    {
+      "name": "Seredžiaus",
+      "img": "Seredzius_COA.gif"
+    },
+    {
+      "name": "Senųjų Trakų",
+      "img": "SeniejiTrakaiCOA.jpg"
+    },
+    {
+      "name": "Senosios Varėnos",
+      "img": "SenosiosVarenosherbas.png"
+    },
+    {
+      "name": "Semeliškių",
+      "img": "Semeliskes_COA.gif"
+    },
+    {
+      "name": "Seirijų",
+      "img": "Seirijai_COA.png"
+    },
+    {
+      "name": "Sedos",
+      "img": "Seda_COA.gif"
+    },
+    {
+      "name": "Saugų",
+      "img": "Sauguherbas.PNG"
+    },
+    {
+      "name": "Satkūnų",
+      "img": "Satkunuherbas.PNG"
+    },
+    {
+      "name": "Sasnavos",
+      "img": "SasnavaCOA.gif"
+    },
+    {
+      "name": "Sartininkų",
+      "img": "Sartininkuherbas.PNG"
+    },
+    {
+      "name": "Samylų",
+      "img": "Samyluherbas.PNG"
+    },
+    {
+      "name": "Saločių",
+      "img": "Salociuherbas.png"
+    },
+    {
+      "name": "Saldutiškio",
+      "img": "Saldutiskis_COA.gif"
+    },
+    {
+      "name": "Salantų",
+      "img": "Salantai_COA.gif"
+    },
+    {
+      "name": "Salako",
+      "img": "Coat_of_arms_of_Salakas_(Lithuania).png"
+    },
+    {
+      "name": "Rusnės",
+      "img": "Rusnesherbas.png"
+    },
+    {
+      "name": "Rumšiškių",
+      "img": "Rumsiskes_COA.gif"
+    },
+    {
+      "name": "Rūdiškių",
+      "img": "Rudiskiuherbas2.PNG"
+    },
+    {
+      "name": "Rudiškių",
+      "img": "Rudiskiuherbas.png"
+    },
+    {
+      "name": "Rozalimo",
+      "img": "Rozalimas_COA.gif"
+    },
+    {
+      "name": "Rokų",
+      "img": "Rokuherbas.png"
+    },
+    {
+      "name": "Rokiškio",
+      "img": "Rokiskis_COA.gif"
+    },
+    {
+      "name": "Ringaudų",
+      "img": "Ringauduherbas.PNG"
+    },
+    {
+      "name": "Rietavo",
+      "img": "Rietavas_COA.gif"
+    },
+    {
+      "name": "Raudonės",
+      "img": "Raudone_CoA.jpg"
+    },
+    {
+      "name": "Raudondvario",
+      "img": "Raudodvario_COA.jpg"
+    },
+    {
+      "name": "Raudėnų",
+      "img": "Coat_of_Arms_of_Raudenai.png"
+    },
+    {
+      "name": "Raseinių",
+      "img": "Raseiniai_COA.gif"
+    },
+    {
+      "name": "Ramygalos",
+      "img": "Ramygalosherbas.png"
+    },
+    {
+      "name": "Raguvos",
+      "img": "Raguvosherbas.png"
+    },
+    {
+      "name": "Radviliškio",
+      "img": "Radviliskis_COA.gif"
+    },
+    {
+      "name": "Pušaloto",
+      "img": "Pusalotoherbas.PNG"
+    },
+    {
+      "name": "Punios",
+      "img": "Punia_COA.gif"
+    },
+    {
+      "name": "Pumpėnų",
+      "img": "Pumpenuherbas.png"
+    },
+    {
+      "name": "Prienų",
+      "img": "Prienai_COA.gif"
+    },
+    {
+      "name": "Priekulės",
+      "img": "Priekule_COA.gif"
+    },
+    {
+      "name": "Plungės",
+      "img": "Plunge_COA.gif"
+    },
+    {
+      "name": "Plokščių",
+      "img": "Ploksciai_COA.gif"
+    },
+    {
+      "name": "Platelių",
+      "img": "Plateliai.gif"
+    },
+    {
+      "name": "Pivašiūnų",
+      "img": "Pivasiunuherbas.png"
+    },
+    {
+      "name": "Pilviškių",
+      "img": "Pilviskiai_COA.gif"
+    },
+    {
+      "name": "Piliuonos",
+      "img": "Piluonosherbas.PNG"
+    },
+    {
+      "name": "Pernaravos",
+      "img": "Pernaravosherbas.png"
+    },
+    {
+      "name": "Perlojos",
+      "img": "Perloja_COA.gif"
+    },
+    {
+      "name": "Pašvitinio",
+      "img": "Pasvitinys_COA.gif"
+    },
+    {
+      "name": "Paįstrio",
+      "img": "Paistrioherbas.png"
+    },
+    {
+      "name": "Pasvalio",
+      "img": "Pasvalys_COA.gif"
+    },
+    {
+      "name": "Pastrėvio",
+      "img": "Pastrevioherbas.PNG"
+    },
+    {
+      "name": "Papilės",
+      "img": "Papile_COA.gif"
+    },
+    {
+      "name": "Panevėžio",
+      "img": "Coat_of_Arms_of_Panevezys.png"
+    },
+    {
+      "name": "Pandėlio",
+      "img": "Pandelys_COA.gif"
+    },
+    {
+      "name": "Paluknio",
+      "img": "Paluknioherbas.PNG"
+    },
+    {
+      "name": "Palomenės",
+      "img": "Palomenesherbas.PNG"
+    },
+    {
+      "name": "Palangos",
+      "img": "Palanga_COA.gif"
+    },
+    {
+      "name": "Pakuonio",
+      "img": "Pakuonis_COA.gif"
+    },
+    {
+      "name": "Pakruojo",
+      "img": "Pakruojis_COA.gif"
+    },
+    {
+      "name": "Pajūrio",
+      "img": "Pajurioherbas.png"
+    },
+    {
+      "name": "Pajevonio",
+      "img": "Pajevonys_COA.gif"
+    },
+    {
+      "name": "Pagramančio",
+      "img": "Pagramancioherbas.PNG"
+    },
+    {
+      "name": "Pagėgių",
+      "img": "Pagegiai_COA.gif"
+    },
+    {
+      "name": "Pabradės",
+      "img": "Pabradesherbas.png"
+    },
+    {
+      "name": "Paberžės",
+      "img": "Paberzesherbas.png"
+    },
+    {
+      "name": "Pabaisko",
+      "img": "Pabaiskoherbas.PNG"
+    },
+    {
+      "name": "Onuškio",
+      "img": "Onuskioherbas.PNG"
+    },
+    {
+      "name": "Obelių",
+      "img": "Obeliai_COA.gif"
+    },
+    {
+      "name": "Notėnų",
+      "img": "Notenuherbas.PNG"
+    },
+    {
+      "name": "Neveronių",
+      "img": "Coat_of_arms_of_Neveronys_(Lithuania).png"
+    },
+    {
+      "name": "Nevarėnų",
+      "img": "Nevarenai_COA.gif"
+    },
+    {
+      "name": "Neringos",
+      "img": "Neringa_COA.gif"
+    },
+    {
+      "name": "Nemunėlio Radviliškio",
+      "img": "NemunelioRadviliskioherbas.png"
+    },
+    {
+      "name": "Nemunaičio",
+      "img": "Nemunaitis_COA.gif"
+    },
+    {
+      "name": "Nemenčinės",
+      "img": "Nemencine_COA.gif"
+    },
+    {
+      "name": "Nemakščių",
+      "img": "Nemaksciuherbas.png"
+    },
+    {
+      "name": "Naujosios Ūtos",
+      "img": "NaujosiosUtosherbas.png"
+    },
+    {
+      "name": "Naujosios Akmenės",
+      "img": "Naujoji_Akmene_COA.gif"
+    },
+    {
+      "name": "Naujamiesčio",
+      "img": "Naujamiescioherbas.PNG"
+    },
+    {
+      "name": "Mosėdžio",
+      "img": "Mosedis_COA.gif"
+    },
+    {
+      "name": "Molėtų",
+      "img": "Coat_of_arms_of_Moletai_(Lithuania).png"
+    },
+    {
+      "name": "Miroslavo",
+      "img": "Miroslavas_COA.gif"
+    },
+    {
+      "name": "Miežiškių",
+      "img": "Mieziskiuherbas.PNG"
+    },
+    {
+      "name": "Mielagėnų",
+      "img": "Mielagenuherbas.PNG"
+    },
+    {
+      "name": "Mickūnų",
+      "img": "Mickunuherbas.png"
+    },
+    {
+      "name": "Meškuičių",
+      "img": "Meskuiciai_COA.gif"
+    },
+    {
+      "name": "Merkinės",
+      "img": "Merkine_COA.gif"
+    },
+    {
+      "name": "Mažonų",
+      "img": "Mazonuherbas.png"
+    },
+    {
+      "name": "Mažeikių",
+      "img": "Coat_of_arms_of_Mazeikiai_(Lithuania).png"
+    },
+    {
+      "name": "Marijampolės",
+      "img": "Marijampole_COA.gif"
+    },
+    {
+      "name": "Marcinkonių",
+      "img": "Marcinkonys_COA.gif"
+    },
+    {
+      "name": "Maišiagalos",
+      "img": "Maisiagala_COA.gif"
+    },
+    {
+      "name": "Lygumų",
+      "img": "Lygumai_COA.gif"
+    },
+    {
+      "name": "Luokės",
+      "img": "Luokesherbas.JPG"
+    },
+    {
+      "name": "Lukšių",
+      "img": "Luksiai.gif"
+    },
+    {
+      "name": "Liudvinavo",
+      "img": "Liudvinavas.gif"
+    },
+    {
+      "name": "Liolių",
+      "img": "Lioliuherbas.png"
+    },
+    {
+      "name": "Linksmakalnio",
+      "img": "Linksmakalnioherbas.png"
+    },
+    {
+      "name": "Linkuvos",
+      "img": "Linkuva_COA.gif"
+    },
+    {
+      "name": "Lentvario",
+      "img": "Coat_of_arms_of_Lentvaris.png"
+    },
+    {
+      "name": "Lenkimų",
+      "img": "Lenkimuherbas.png"
+    },
+    {
+      "name": "Leliūnų",
+      "img": "Leliunai_COA.gif"
+    },
+    {
+      "name": "Lekėčių",
+      "img": "Lekeciai_COA.gif"
+    },
+    {
+      "name": "Leipalingio",
+      "img": "Leipalingis_COA.gif"
+    },
+    {
+      "name": "Leckavos",
+      "img": "Leckavosherbas.PNG"
+    },
+    {
+      "name": "Lazdijų",
+      "img": "Lazdijai_COA.gif"
+    },
+    {
+      "name": "Laukuvos",
+      "img": "Laukuva_COA.gif"
+    },
+    {
+      "name": "Lapių",
+      "img": "Lapių_herbas.jpg"
+    },
+    {
+      "name": "Laižuvos",
+      "img": "Laizuvosherbas.PNG"
+    },
+    {
+      "name": "Labanoro",
+      "img": "Labanoroherbas.png"
+    },
+    {
+      "name": "Krakių",
+      "img": "Krakiuherbas.PNG"
+    },
+    {
+      "name": "Kėdainių",
+      "img": "Kedainiai_COA.gif"
+    },
+    {
+      "name": "Kybartų",
+      "img": "Kybartai_COA.gif"
+    },
+    {
+      "name": "Kvietinių",
+      "img": "Kvietiniuherbas.png"
+    },
+    {
+      "name": "Kvėdarnos",
+      "img": "Kvedarna_COA.gif"
+    },
+    {
+      "name": "Kužių",
+      "img": "Kuziai_COA.gif"
+    },
+    {
+      "name": "Kuršėnų",
+      "img": "Kursenai_COA.gif"
+    },
+    {
+      "name": "Kupiškio",
+      "img": "Kupiskis_COA.gif"
+    },
+    {
+      "name": "Kulių",
+      "img": "Kuliuherbas.png"
+    },
+    {
+      "name": "Kulautuvos",
+      "img": "Kulautuva_COA.gif"
+    },
+    {
+      "name": "Kuktiškių",
+      "img": "Kuktiskes_COA.gif"
+    },
+    {
+      "name": "Kudirkos Naumiesčio",
+      "img": "Kudirkos_Naumiestis_COA.gif"
+    },
+    {
+      "name": "Kruopių",
+      "img": "Kruopiai_COA.gif"
+    },
+    {
+      "name": "Kruonio",
+      "img": "Kruonioherbas.png"
+    },
+    {
+      "name": "Krosnos",
+      "img": "Krosna_COA.gif"
+    },
+    {
+      "name": "Krokialaukio",
+      "img": "Krokialaukioherbas.png"
+    },
+    {
+      "name": "Kriūkų",
+      "img": "Kriukiai_COA.gif"
+    },
+    {
+      "name": "Kriukų",
+      "img": "Kriukuherbas.png"
+    },
+    {
+      "name": "Krinčino",
+      "img": "Krincinoherbas.png"
+    },
+    {
+      "name": "Kretingalės",
+      "img": "Kretingalesherbas.png"
+    },
+    {
+      "name": "Kretingos",
+      "img": "Kretinga_COA.gif"
+    },
+    {
+      "name": "Krekenavos",
+      "img": "Krekenavosherbas.png"
+    },
+    {
+      "name": "Kražių",
+      "img": "Kraziai.gif"
+    },
+    {
+      "name": "Klovainių",
+      "img": "Klovainiai_COA.gif"
+    },
+    {
+      "name": "Klausučių",
+      "img": "Klausuciuherbas.PNG"
+    },
+    {
+      "name": "Klaipėdos",
+      "img": "Coat_of_arms_of_Klaipeda_(Lithuania).png"
+    },
+    {
+      "name": "Kirkilų",
+      "img": "Kirkiluherbas.PNG"
+    },
+    {
+      "name": "Kintų",
+      "img": "Kintuherbas.PNG"
+    },
+    {
+      "name": "Kietaviškių",
+      "img": "Kietaviskes_COA.gif"
+    },
+    {
+      "name": "Kidulių",
+      "img": "Kiduliai_COA.gif"
+    },
+    {
+      "name": "Keturvalakių",
+      "img": "Keturvalakiuherbas.PNG"
+    },
+    {
+      "name": "Kernavės",
+      "img": "Kernave_COA.gif"
+    },
+    {
+      "name": "Kelmės",
+      "img": "Kelmes-herbas.png"
+    },
+    {
+      "name": "Kačerginės",
+      "img": "Kacergine_COA.gif"
+    },
+    {
+      "name": "Kazokiškių",
+      "img": "Kazokiskes.gif"
+    },
+    {
+      "name": "Kazlų Rūdos",
+      "img": "Coat_of_arms_of_Kazlu_Ruda_(Lithuania).png"
+    },
+    {
+      "name": "Kavarsko",
+      "img": "Kavarsko_herbas.jpg"
+    },
+    {
+      "name": "Kauno",
+      "img": "Kaunas_city_COA.png"
+    },
+    {
+      "name": "Katyčių",
+      "img": "Katyciuherbas.png"
+    },
+    {
+      "name": "Kartenos",
+      "img": "Kartena_COA.gif"
+    },
+    {
+      "name": "Karsakiškio",
+      "img": "KarsakiskisCOA.jpg"
+    },
+    {
+      "name": "Karmėlavos",
+      "img": "Karmelava_COA.gif"
+    },
+    {
+      "name": "Kapčiamiesčio",
+      "img": "Kapciamiestis_COA.png"
+    },
+    {
+      "name": "Kamajų",
+      "img": "--GFDL--_Kamajai1.jpg"
+    },
+    {
+      "name": "Kalvarijos",
+      "img": "Kalvarija_COA.gif"
+    },
+    {
+      "name": "Kaltinėnų",
+      "img": "Kaltinenuherbas.png"
+    },
+    {
+      "name": "Kaltanėnų",
+      "img": "Kaltanenuherbas.PNG"
+    },
+    {
+      "name": "Kaišiadorių",
+      "img": "Kaisiadorys_COA.gif"
+    },
+    {
+      "name": "Kairių",
+      "img": "Kairiai.gif"
+    },
+    {
+      "name": "Jūrės",
+      "img": "Juresherbas.png"
+    },
+    {
+      "name": "Jurbarko",
+      "img": "Jurbarkas_COA.gif"
+    },
+    {
+      "name": "Juodupės",
+      "img": "Juodupesherbas.png"
+    },
+    {
+      "name": "Juknaičių",
+      "img": "Juknaiciuherbas.PNG"
+    },
+    {
+      "name": "Judrėnų",
+      "img": "Judrenuherbas.png"
+    },
+    {
+      "name": "Josvainių",
+      "img": "Josvainiai_COA.png"
+    },
+    {
+      "name": "Joniškėlio",
+      "img": "LIT_Johaniszkiele_COA.jpg"
+    },
+    {
+      "name": "Joniškio",
+      "img": "Coat_of_arms_of_Joniskis.png"
+    },
+    {
+      "name": "Jonavos",
+      "img": "Coat_of_arms_of_Jonava_(Lithuania).png"
+    },
+    {
+      "name": "Jiezno",
+      "img": "Jieznas_COA.gif"
+    },
+    {
+      "name": "Jašiūnų",
+      "img": "Coat_of_arms_of_Jašiūnai.png"
+    },
+    {
+      "name": "Ylakių",
+      "img": "Coat_of_arms_of_Ylakiai_(Lithuania).png"
+    },
+    {
+      "name": "Išlaužo",
+      "img": "Išlaužo_herbas.jpg"
+    },
+    {
+      "name": "Ignalinos",
+      "img": "Coat_of_arms_of_Ignalina_(Lithuania).png"
+    },
+    {
+      "name": "Gruzdžių",
+      "img": "Gruzdziai_COA.gif"
+    },
+    {
+      "name": "Griškabūdžio",
+      "img": "Griskabudis_COA.gif"
+    },
+    {
+      "name": "Grinkiškio",
+      "img": "Grinkiskis-COA.png"
+    },
+    {
+      "name": "Grigiškių",
+      "img": "Grigiskes_COA.gif"
+    },
+    {
+      "name": "Grendavės",
+      "img": "Grendavesherbas.PNG"
+    },
+    {
+      "name": "Gražiškių",
+      "img": "Graziskiai_COA.gif"
+    },
+    {
+      "name": "Gižų",
+      "img": "Gizuherbas.PNG"
+    },
+    {
+      "name": "Girkalnio",
+      "img": "Girkalnis_COA.jpg"
+    },
+    {
+      "name": "Girdžių",
+      "img": "Girdziuherbas.png"
+    },
+    {
+      "name": "Ginkūnų",
+      "img": "Ginkunai_COA.gif"
+    },
+    {
+      "name": "Gilučių",
+      "img": "Giluciuherbas.PNG"
+    },
+    {
+      "name": "Giedraičių",
+      "img": "Giedraiciai_COA.gif"
+    },
+    {
+      "name": "Gelgaudiškio",
+      "img": "Gelgaudiskis_COA.gif"
+    },
+    {
+      "name": "Gaurės",
+      "img": "Gaure_COA.gif"
+    },
+    {
+      "name": "Garliavos",
+      "img": "Garliava_COA.gif"
+    },
+    {
+      "name": "Gargždų",
+      "img": "Gargzdai_COA.gif"
+    },
+    {
+      "name": "Gardamo",
+      "img": "Gardamoherbas.PNG"
+    },
+    {
+      "name": "Gaižaičių",
+      "img": "Gaizaiciuherbas.png"
+    },
+    {
+      "name": "Ežerėlio",
+      "img": "Ezerelis_COA.png"
+    },
+    {
+      "name": "Endriejavo",
+      "img": "Endriejavoherbas.PNG"
+    },
+    {
+      "name": "Elektrėnų",
+      "img": "Elektrenai_COA.gif"
+    },
+    {
+      "name": "Eišiškių",
+      "img": "Eisiskes_COA.png"
+    },
+    {
+      "name": "Dūkšto",
+      "img": "Dukstoherbas.PNG"
+    },
+    {
+      "name": "Dusetų",
+      "img": "Dusetos_COA.gif"
+    },
+    {
+      "name": "Druskininkų",
+      "img": "Coat_of_arms_of_Druskininkai_(Lithuania).png"
+    },
+    {
+      "name": "Dovilų",
+      "img": "Doviluherbas.PNG"
+    },
+    {
+      "name": "Domeikavos",
+      "img": "Domeikava_COA.png"
+    },
+    {
+      "name": "Dieveniškių",
+      "img": "Dieveniskes_COA.png"
+    },
+    {
+      "name": "Deltuvos",
+      "img": "Deltuvosherbas.PNG"
+    },
+    {
+      "name": "Degučių",
+      "img": "DeguciaiSiluteherbas.png"
+    },
+    {
+      "name": "Degučių",
+      "img": "Deguciuherbas.PNG"
+    },
+    {
+      "name": "Debeikių",
+      "img": "Debeikiai_COA.png"
+    },
+    {
+      "name": "Daujėnų",
+      "img": "Daujenai_COA.png"
+    },
+    {
+      "name": "Daugailių",
+      "img": "Coat_of_arms_of_Daugailiai.png"
+    },
+    {
+      "name": "Daugų",
+      "img": "Coat_of_arms_of_Daugai.png"
+    },
+    {
+      "name": "Čekiškės",
+      "img": "Cekiske_COA.gif"
+    },
+    {
+      "name": "Butrimonių",
+      "img": "Coat_of_arms_of_Butrimonys.png"
+    },
+    {
+      "name": "Buivydžių",
+      "img": "Buivydziuherbas.png"
+    },
+    {
+      "name": "Bubių",
+      "img": "Bubiuherbas.png"
+    },
+    {
+      "name": "Bubių",
+      "img": "Coat_of_arms_of_Bubiai.png"
+    },
+    {
+      "name": "Biržų",
+      "img": "Birzai_COA.png"
+    },
+    {
+      "name": "Birštono",
+      "img": "Birstonas_COA.png"
+    },
+    {
+      "name": "Bijotų",
+      "img": "Bijotuherbas.PNG"
+    },
+    {
+      "name": "Betygalos",
+      "img": "Betygala_COA.png"
+    },
+    {
+      "name": "Beižionių",
+      "img": "Beizioniuherbas.PNG"
+    },
+    {
+      "name": "Batakių",
+      "img": "Batakiuherbas.png"
+    },
+    {
+      "name": "Barzdų",
+      "img": "Coat_of_arms_of_Barzdai.png"
+    },
+    {
+      "name": "Bartninkų",
+      "img": "Coat_of_arms_of_Bartninkai.png"
+    },
+    {
+      "name": "Barstyčių",
+      "img": "Barstyciuherbas.PNG"
+    },
+    {
+      "name": "Baltosios Vokės",
+      "img": "Herb_Białej_Waki.png"
+    },
+    {
+      "name": "Balninkų",
+      "img": "Balninkuherbas.png"
+    },
+    {
+      "name": "Balbieriškio",
+      "img": "Balbieriskis_COA.png"
+    },
+    {
+      "name": "Baisogalos",
+      "img": "Baisiogala_COA.png"
+    },
+    {
+      "name": "Babtų",
+      "img": "Babtai_COA.png"
+    },
+    {
+      "name": "Aukštadvario",
+      "img": "Aukstadvarioherbas.png"
+    },
+    {
+      "name": "Ašmintos",
+      "img": "Asmintosherbas.png"
+    },
+    {
+      "name": "Ariogalos",
+      "img": "Coat_of_arms_of_Ariogala.png"
+    },
+    {
+      "name": "Anykščių",
+      "img": "Anyksciai_COA.gif"
+    },
+    {
+      "name": "Antanavo",
+      "img": "Antanavoherbas.PNG"
+    },
+    {
+      "name": "Antalieptės",
+      "img": "Coat_of_arms_of_Antalieptė.png"
+    },
+    {
+      "name": "Andrioniškio",
+      "img": "Andrioniskioherbas.PNG"
+    },
+    {
+      "name": "Alytaus",
+      "img": "Coat_of_arms_of_Alytus_(Lithuania).png"
+    },
+    {
+      "name": "Alvito",
+      "img": "Alvitoherbas.JPG"
+    },
+    {
+      "name": "Alsėdžių",
+      "img": "Coat_of_arms_of_Alsėdžiai.png"
+    },
+    {
+      "name": "Alovės",
+      "img": "Alovesherbas.PNG"
+    },
+    {
+      "name": "Aleksandrijos (Skuodas)",
+      "img": "Aleksandrijosherbas.PNG"
+    },
+    {
+      "name": "Akmenės",
+      "img": "Coat_of_arms_of_Akmenė_(Lithuania).png"
+    },
+    {
+      "name": "Akademijos",
+      "img": "COA_Akademija_Kaunas.png"
+    },
+    {
+      "name": "Agluonėnų",
+      "img": "Agluonenuherbas.png"
+    },
+    {
+      "name": "Adutiškio",
+      "img": "AdutiskisCOA.png"
+    }
+]

@@ -1,0 +1,164 @@
+{
+  "lt":{
+    "lang": "lt",
+    "menuWork": "Dirbau",
+    "menuEdu": "Mokiausi",
+    "menuLang": "Kalbu",
+    "menuSkills": "Moku",
+    "menuHobbies": "Mėgstu",
+    "menuPortfolio": "Portfolio",
+    "menulang": "<a islink=true href='en/'><strong>LT</strong> / EN </a>",
+    "birthday": "Gimimo data",
+    "address": "Adresas",
+    "tel": "Tel. nr.",
+    "email": "El. paštas",
+    "download": "Atsisiųsti",
+    "pdf":"DomasBriedisCV.pdf",
+
+    "jobs": [
+      {
+          "id": "collapseOne",
+          "par": "Pardavimų vadybininkas",
+          "pav": "TAMO GRUPĖ",
+          "date": "2016-06 - dabar",
+          "desc": "Reklamos tamo.lt elektroniniame dienyne pardavimai B2B ir elektroninių pratybų EMA pardavimai B2C, SAAS. Klientų paieška, bendravimas su klientais, susitikimai, pristatymai, sutarčių rengimas, užsakymų priežiūra."
+      },
+      {
+        "id": "collapseTwo",
+        "par": "Laboratorinių tyrimų pardavimų vadybininkas",
+        "pav": "J.S. HAMILTON BALTIC",
+        "date": "2015-08 - 2016-06",
+        "desc": "Laboratorijos paslaugų pardavimas maisto, pakuočių ir kosmetikos gamintojams B2B. Klientų paieška, sutarčių rengimas, mėginių siuntimas, užsakymų priežiūra, bendravimas su klientais."
+      },
+      {
+        "id": "collapseThree",
+        "par": "Chemijos mokytojas",
+        "pav": "VILNIUS INTERNATIONAL MERIDIAN SCHOOL",
+        "date": "2013-09 - 2015-06",
+        "desc": "8-9 klasių mokymas, chemijos būrelis, pasiruošimas ir dalyvavimas mokinių projektų olimpiadose, renginių organizavimas."
+      },
+      {
+        "id": "collapseFour",
+        "par": "Chemijos mokytojas",
+        "pav": "VILNIAUS ŠV. KRISTOFORO PROGIMNAZIJA",
+        "date": "2013-09 - 2015-06",
+        "desc": "8 klasių mokymas, renginių organizavimas."
+      },
+      {
+        "id": "collapseFive",
+        "par": "Chemijos mokytojas",
+        "pav": "SEDOS VYTAUTO MAČERNIO GIMNAZIJA",
+        "date": "2010-09 - 2013-06",
+        "desc": "8-12 klasių mokymas, fotografijos būrelis, projektų rengimas, elektroninių mokymo priemonių kūrimas, renginių organizavimas."
+      }
+    ],
+
+    "vu": "VILNIAUS UNIVERSITETAS",
+    "vdu": "VYTAUTO DIDŽIOJO UNIVERSITETAS",
+    "chemistry": "Chemija",
+    "bachelour": "(bakalauras)",
+    "master": "(magistras)",
+    "pedagogics": "Pedagogo kvalifikacija",
+    "lt": "Lietuvių (gimtoji)",
+    "en": "Anglų (puikiai)",
+    "ru": "Rusų (pagrindai)",
+    "drive": "Vairuotojo pažymėjimas (nuo 2006 m.)",
+    "hobbies": "Elektronika, fotografija, mokslas, psichologija, grojimas gitara, kelionės, piešimas.",
+    "projects": [
+      {
+        "image": "epsichologe.png",
+        "name": "e-psichologe.eu",
+        "link": "http://e-psichologe.eu",
+        "desc": "Wordpress įrašymas, pritaikymas kelioms kalboms, SEO."
+      },
+      {
+        "image": "srusiai.png",
+        "name": "senamiesciorusiai.lt",
+        "link": "http://senamiesciorusiai.lt",
+        "desc": "Wordpress įrašymas, SEO."
+      }
+
+    ]
+  },
+
+  "en": {
+    "lang": "en",
+    "menuWork": "Work",
+    "menuEdu": "Education",
+    "menuLang": "Languages",
+    "menuSkills": "Skills",
+    "menuHobbies": "Hobbies",
+    "menuPortfolio": "Portfolio",
+    "menulang": "<a islink=true href='/'> LT / <strong>EN</strong></a>",
+    "birthday": "Date of birth",
+    "address": "Address",
+    "tel": "Tel. No.",
+    "email": "Email",
+    "download": "Download",
+    "pdf":"DomasBriedisCV_en.pdf",
+    "jobs": [
+      {
+          "id": "collapseOne",
+          "par": "Sales manager",
+          "pav": "TAMO GROUP",
+          "date": "2016-06 - present",
+          "desc": "Sales of digital ads space in tamo.lt eDiary (B2B) and sales of EMA digital workbooks (B2C, SAAS). Lead generation, customer relations, bussienss meetings, presentations, contract preparation, supervision of orders."
+      },
+      {
+        "id": "collapseTwo",
+        "par": "Laboratory sales reperesentative",
+        "pav": "J.S. HAMILTON BALTIC",
+        "date": "2015-08 - 2016-06",
+        "desc": "Sales of laboratory services to food, packing and cosmetics industries (B2B). Lead generation, preparation of agreements, sample delivery, supervision of orders, customer relations."
+      },
+      {
+        "id": "collapseThree",
+        "par": "Chemistry teacher",
+        "pav": "VILNIUS INTERNATIONAL MERIDIAN SCHOOL",
+        "date": "2013-09 - 2015-06",
+        "desc": "Teaching chemistry to 8-9 grades, science club, preparation and participation in science project olympiad, event management."
+      },
+      {
+        "id": "collapseFour",
+        "par": "Chemistry teacher",
+        "pav": "VILNIUS ST. KRISTOFORAS PROGYMNASIUM",
+        "date": "2013-09 - 2015-06",
+        "desc": "Teaching chemistry to 8 grade. Event management."
+      },
+      {
+        "id": "collapseFive",
+        "par": "Chemistry teacher",
+        "pav": "SEDA VYTAUTAS MAČERNIS GYMNASIUM",
+        "date": "2010-09 - 2013-06",
+        "desc": "Teaching chemistry to 8-12 grades, photography club, projects, creation of eLearning content, event management."
+      }
+    ],
+
+    "vu": "VILNIUS UNIVERSITY",
+    "vdu": "VYTAUTAS MAGNUS UNIVERSITY",
+    "chemistry": "Chemistry",
+    "bachelour": "(B.Sc.)",
+    "master": "(M.Sc.)",
+    "pedagogics": "Pedagogics",
+    "lt": "Lithuanian (native)",
+    "en": "English (fluent)",
+    "ru": "Russian (basics)",
+    "drive": "Driver's license (since 2006)",
+    "hobbies": "Electrinics, photography, science, psychology, playing guitar, traveling, drawing.",
+    "projects": [
+      {
+        "image": "epsichologe.png",
+        "name": "e-psichologe.eu",
+        "link": "http://e-psichologe.eu",
+        "desc": "Wordpress installation, multi-language adaptation, SEO."
+      },
+      {
+        "image": "srusiai.png",
+        "name": "senamiesciorusiai.lt",
+        "link": "http://senamiesciorusiai.lt",
+        "desc": "Wordpress installation, SEO."
+      }
+
+    ]
+    }
+}

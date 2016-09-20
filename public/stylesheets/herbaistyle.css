@@ -1,0 +1,59 @@
+.badge {
+  font-size: 2em !important;
+  margin-left:10px;
+}
+.navbar {
+  padding:5px;
+}
+body {
+  padding-top:60px;
+}
+
+
+.well {
+  text-align: center;
+}
+
+.well img {
+  max-height: 100px;
+}
+
+.radio {
+    margin: 2%;
+}
+
+.radio input {
+display:none;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+
+.loading {
+  display:none;
+}
+
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 1000px) {
+  .radio {
+      font-size:3em; /* 1.2x default size */
+  }
+  button, .badge {
+      font-size:3em !important; /* 1.2x default size */
+  }
+  body {
+    padding-top:100px;
+  }
+  .well img {
+    max-height: 200px;
+  }
+
+}
+/* Small devices (tablets, 768px and up) */

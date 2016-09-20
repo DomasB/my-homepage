@@ -1,0 +1,26 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Domas Briedis CV</title>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://use.fontawesome.com/db01d6fd76.js"></script>
+<link rel="stylesheet" href="/stylesheets/cvstyle.css">
+<script>
+  $( document ).ready(function() {
+    var offset = 60;
+    $('.nav li a').on('click', function(event){
+        if ($("#navtoggle").attr("aria-expanded")) {
+          $('#navtoggle').click()
+        };
+        if (!$(this).attr("islink")) {
+          event.preventDefault();
+        };
+
+
+        $($(this).attr('href'))[0].scrollIntoView();
+        scrollBy(0, -offset);
+    });
+  });
+</script>

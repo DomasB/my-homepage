@@ -1,0 +1,30 @@
+<section id="work">
+  <div class="container">
+    <div class="panel panel-primary">
+      <div class="panel-heading"><strong><i class="fa fa-suitcase" aria-hidden="true"></i> {{menuWork}}</strong></div>
+      </div>
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+          {{#each jobs}}
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne" data-toggle="collapse" data-parent="#accordion" href="#{{this.id}}" aria-expanded="false" aria-controls="{{this.id}}">
+              <div class="panel-title">
+                <div class="collapsed" role="button" >
+                  <span>{{this.par}}, </span>
+                  <span>{{this.pav}}</span><br>
+                  <span class="text-nowrap">({{this.date}})</span>
+                </div>
+              </div>
+            </div>
+            <div id="{{this.id}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+              <div class="panel-body">
+                {{this.desc}}
+               </div>
+            </div>
+          </div>
+
+          {{/each}}
+
+
+    </div>
+</section>
