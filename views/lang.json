@@ -14,7 +14,7 @@
     "email": "El. paštas",
     "download": "Atsisiųsti",
     "pdf":"DomasBriedisCV.pdf",
-
+    "now": "dabar",
     "jobs": [
       {
           "id": "collapseOne",
@@ -95,7 +95,8 @@
     "tel": "Tel. No.",
     "email": "Email",
     "download": "Download",
-    "pdf":"DomasBriedisCV_en.pdf",
+    "pdf": "DomasBriedisCV_en.pdf",
+    "now": "present",
     "jobs": [
       {
           "id": "collapseOne",
