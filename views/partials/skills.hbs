@@ -1,66 +1,28 @@
 <section id="skills">
-  <div class="container">
-    <div class="panel panel-primary">
-      <div class="panel-heading"><strong><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{menuSkills}}</strong></div>
-      <div class="panel-body">
 
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="5" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 80%;">
-            <strong>HTML / CSS</strong>
-          </div>
+  <paper-header-panel>
+    <paper-toolbar>
+      <i class="fa fa-pencil-square-o" aria-hidden="true"></i><div class="title"> {{menuSkills}}</div>
+    </paper-toolbar>
+     <div class="content">
+       <paper-card heading="">
+        <div class="card-content">
+            HTML / CSS <paper-progress value="80" class="green"></paper-progress>
+            JavaScript <paper-progress value="50" class="green"></paper-progress>
+            ReactJS <paper-progress value="10" class="green"></paper-progress>
+            PHP <paper-progress value="20" class="green"></paper-progress>
+            MySQL <paper-progress value="15" class="green"></paper-progress>
+            Python <paper-progress value="10" class="green"></paper-progress>
+            Node.js <paper-progress value="10" class="green"></paper-progress>
+            Photoshop <paper-progress value="60" class="yellow"></paper-progress>
+            Illustrator / Corel <paper-progress value="40" class="yellow"></paper-progress>
+            MS Office<paper-progress value="90" class="blue"></paper-progress>
+            Linux<paper-progress value="60" class="blue"></paper-progress>
+            {{drive}}
         </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="4" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 50%;">
-            <strong>JavaScript</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="4" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 10%;">
-            <strong>ReactJS</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 20%;">
-            <strong>PHP</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 15%;">
-            <strong>MySQL</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 10%;">
-            <strong>Python</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 10%;">
-            <strong>Node.js</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 60%;">
-            <strong>Photoshop</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 40%;">
-            <strong>Illustrator / Corel</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 90%;">
-            <strong>MS Office</strong>
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="2" aria-valuemin="1" aria-valuemax="5" style="min-width:4em; width: 60%;">
-            <strong>Linux</strong>
-          </div>
-        </div>
-        {{drive}}
-      </div>
+      </paper-card>
     </div>
-  </div>
+  </paper-header-panel>
+
+
 </section>

@@ -1,10 +1,15 @@
 <section id="hobbies">
-  <div class="container">
-    <div class="panel panel-primary">
-      <div class="panel-heading"><strong><i class="fa fa-gamepad" aria-hidden="true"></i> {{menuHobbies}}</strong></div>
-      <div class="panel-body">
-        {{hobbies}}
-      </div>
+  <paper-header-panel>
+    <paper-toolbar>
+      <i class="fa fa-gamepad" aria-hidden="true"></i><div class="title"> {{menuHobbies}}</div>
+    </paper-toolbar>
+     <div class="content">
+       <paper-card heading="">
+        <div class="card-content">
+            {{hobbies}}
+        </div>
+      </paper-card>
     </div>
-  </div>
+  </paper-header-panel>
+
 </section>
