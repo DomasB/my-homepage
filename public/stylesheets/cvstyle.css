@@ -10,7 +10,9 @@
   padding: 5px;
 }
 
-
+paper-tab {
+  text-align: center;
+}
 html, body, .content {
   height: 100%;
   margin: 0;
@@ -27,18 +29,25 @@ paper-card {
   color: inherit;
   text-decoration: none;
 }
+
+paper-toolbar a {
+  color: inherit;
+  text-decoration: none;
+}
 section {
-  height: 50%;
+
   margin-left: auto;
   margin-right: auto;
+
 }
 section div paper-card {
   text-align: justify;
   background-color: #FFF;
   padding: 20px;
   margin: 20px;
+  margin-right: 60px;
   display:  inline-flex;;
-  max-width: 800px;
+  max-width:80%;
   width: 100%;
 }
 .cards, .content {
@@ -63,20 +72,30 @@ section div paper-card {
 }
 paper-progress {
   width: 100% !important;
-  margin: 5px;
+  margin-bottom:10px;
+}
+#languages {
+  height: 290px;
+  max-height: 100%;
+}
+#skills {
+  height: 590px;
+  max-height: 100%;
+
+}
+#hobbies {
+  height: 200px;
+  max-height: 100%;
 }
 
-paper-progress.blue {
-  --paper-progress-active-color: var(--paper-light-blue-500);
-  --paper-progress-secondary-color: var(--paper-light-blue-100);
+#education {
+  max-height: 740px;
 }
-
-paper-progress.red {
-  --paper-progress-active-color: var(--paper-red-500);
-  --paper-progress-secondary-color: var(--paper-red-100);
+#portfolio, #education, #work {
+  height: 100%;
 }
-
-paper-progress.green {
-  --paper-progress-active-color: var(--paper-light-green-500);
-  --paper-progress-secondary-color: var(--paper-light-green-100);
+#portfolio img {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }

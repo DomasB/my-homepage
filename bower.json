@@ -31,6 +31,7 @@
     "paper-menu": "PolymerElements/paper-menu#^1.2.2",
     "paper-item": "PolymerElements/paper-item#^1.2.1",
     "iron-accordions": "^1.1.0",
-    "paper-progress": "PolymerElements/paper-progress#^1.0.10"
+    "paper-progress": "PolymerElements/paper-progress#^1.0.10",
+    "paper-tabs": "PolymerElements/paper-tabs#^1.6.2"
   }
 }
