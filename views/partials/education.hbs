@@ -1,18 +1,30 @@
 <section id="education">
-  <div class="container">
-    <div class="panel panel-primary">
-      <div class="panel-heading"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> {{menuEdu}}</strong></div>
-      <div class="panel-body">
-        {{vu}}<br>
-        2013 – {{now}}<br>
-        {{chemistry}} {{master}}<br><br>
-        {{vdu}}<br>
+  <paper-header-panel>
+    <paper-toolbar>
+      <i class="fa fa-graduation-cap" aria-hidden="true"></i><div class="title"> {{menuEdu}}</div>
+    </paper-toolbar>
+     <div class="content">
+       <paper-card heading="{{vu}}">
+        <div class="card-content">
+          2013 – {{now}}<br>
+          {{chemistry}} {{master}}
+        </div>
+      </paper-card>
+
+     <paper-card heading="{{vdu}}">
+      <div class="card-content">
         2011-2012<br>
-        {{pedagogics}}<br><br>
-        {{vu}}<br>
-        2006-2010<br>
-        {{chemistry}} {{bachelour}}<br>
+        {{pedagogics}}
       </div>
+    </paper-card>
+
+    <paper-card heading="{{vu}}">
+     <div class="card-content">
+       2006-2010<br>
+       {{chemistry}} {{bachelour}}
+     </div>
+   </paper-card>
+
     </div>
-  </div>
+  </paper-header-panel>
 </section>
