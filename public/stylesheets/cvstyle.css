@@ -1,17 +1,31 @@
-#social-links {
+.social-links {
   text-align: center;
   padding: 10px;
   margin-top: 30px;
 }
 
-#social-links a {
+.social-links a {
   font-size: 180%;
   color: #777 !important;
   padding: 5px;
 }
-
-paper-tab {
+paper-tabs {
   text-align: center;
+  margin-left:10%;
+  margin-top: auto;
+}
+
+paper-tab a {
+  text-align: center;
+  font-family: 'Roboto', 'Noto', sans-serif;
+  font-weight: normal;
+  font-size: 1.2em;
+  padding:20px;
+  height: 100%;
+}
+paper-toolbar iron-icon {
+  padding:10px;
+ cursor: pointer;
 }
 html, body, .content {
   height: 100%;
